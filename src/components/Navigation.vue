@@ -14,7 +14,7 @@ const toggleMobile = () => {
 }
 </script>
 <template>
-  <div class="fixed top-0 left-0 w-full h-full">
+  <div class="top-0 left-0 w-full h-full">
     <nav
       class="sticky top-0 right-0 left-0 bg-black border-b border-white/30 backdrop-blur-md z-50"
     >
