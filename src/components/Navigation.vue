@@ -42,11 +42,7 @@ const toggleMobile = () => {
           <div class="flex flex-1 items-center justify-between sm:items-stretch">
             <!-- Logo -->
             <div class="flex shrink-0 items-center">
-              <img
-                src="https://tailwindcss.com/plus-assets/img/logos/mark.svg"
-                class="h-8 w-auto"
-                alt="Logo"
-              />
+              <img src="@/assets/Web_logo.jpg" class="h-8 w-auto" alt="Logo" />
             </div>
 
             <!-- Desktop Menu -->

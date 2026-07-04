@@ -1,0 +1,117 @@
+{
+  "TechnicalSkills": [
+    {
+      "category": "Frontend Development",
+      "skills": [
+        { "name": "HTML5", "photo": "Web_Pics/Frontend_Dev/HTML_pic.png" },
+        { "name": "CSS3", "photo": "Web_Pics/Frontend_Dev/CSS_pic.png" },
+        { "name": "JavaScript", "photo": "Web_Pics/Frontend_Dev/JavaScript_pic.png" },
+        { "name": "Tailwind CSS", "photo": "Web_Pics/Frontend_Dev/Tailwind_pic.png" },
+        { "name": "Bootstrap", "photo": "Web_Pics/Frontend_Dev/Bootstrap_pic.webp" },
+        { "name": "Material UI (MUI)", "photo": "Web_Pics/Frontend_Dev/MaterialUi_pic.jpg" }
+      ]
+    },
+    {
+      "category": "Backend Development",
+      "skills": [
+        { "name": "PHP", "photo": "Web_Pics/Backend_Dev/PHP_pic.webp" },
+        { "name": "Python", "photo": "Web_Pics/Backend_Dev/Python_pic.webp" },
+        { "name": "TypeScript", "photo": "Web_Pics/Backend_Dev/TypeScript_pic.webp" }
+      ]
+    },
+    {
+      "category": "Frameworks & Package Managers",
+      "skills": [
+        { "name": "React.js", "photo": "Web_Pics/Frameworks/React_pic.webp" },
+        { "name": "Vue.js", "photo": "Web_Pics/Frameworks/Vue_pic.png" },
+        { "name": "Next.js", "photo": "Web_Pics/Frameworks/Next.js_pic.jpg" },
+        { "name": "npm", "photo": "Web_Pics/Frameworks/Npm_pic.png" },
+        { "name": "yarn", "photo": "Web_Pics/Frameworks/yarn_pic.png" },
+        { "name": "pnpm", "photo": "Web_Pics/Frameworks/Pnpm_pic.svg" }
+      ]
+    },
+    {
+      "category": "Database Management and Cloud Services",
+      "skills": [
+        { "name": "MySQL", "photo": "Web_Pics/Dbase/MySQL_pic.png" },
+        { "name": "SQL Server", "photo": "Web_Pics/Dbase/SQL_pic.png" },
+        { "name": "Supabase", "photo": "Web_Pics/Dbase/Supabase_pic.jpg" },
+        { "name": "Firebase", "photo": "Web_Pics/Dbase/Firebase_pic.png" }
+      ]
+    },
+    {
+      "category": "Version Control",
+      "skills": [
+        { "name": "Git", "photo": "Web_Pics/Version/Git_pic.png" },
+        { "name": "GitHub", "photo": "Web_Pics/Version/Github_pic.png" },
+        { "name": "GitLab", "photo": "Web_Pics/Version/Gitlab_pic.png" }
+      ]
+    },
+    {
+      "category": "Soft Skills",
+      "skills": [
+        { "name": "Problem-solving", "photo": "Web_Pics/Soft_skills/Problem_solving_pic.png" },
+        { "name": "Communication", "photo": "Web_Pics/Soft_skills/Communication_pic.jpg" },
+        { "name": "Teamwork", "photo": "Web_Pics/Soft_skills/Teamwork_pic.jpg" },
+        { "name": "Adaptability", "photo": "Web_Pics/Soft_skills/Adaptability_pic.png" },
+        { "name": "Time Management", "photo": "Web_Pics/Soft_skills/Time_management_pic.png" }
+      ]
+    }
+  ],
+  "Experience": [
+    {
+      "company": "Pixel8 Web Solution and Consultancy",
+      "role": "QA Automation Tester",
+      "year": "2025",
+      "description1": " Performed automated functional and regression testing at Pixel8 Web Solutions and Consultancy Inc., ensuring the quality and performance of web applications. Developed and executed test scripts using Selenium and Cypress, improving defect detection and overall system reliability.",
+      "description2": " Gained hands-on experience in browser automation, element handling, and test case design, including end-to-end testing and debugging. Applied best practices in creating maintainable test scripts while strengthening knowledge in software testing methodologies and quality assurance processes.",
+      "image": "/src/assets/Pixel8_Logo.png",
+      "technologies": [
+        { "name": "Selenium", "photo": "Web_Pics/QA/Selenium_pic.png" },
+        { "name": "Cypress", "photo": "Web_Pics/QA/Cypress_pic.png" },
+        { "name": "Python", "photo": "Web_Pics/Backend_Dev/Python_pic.webp" },
+        { "name": "JavaScript", "photo": "Web_Pics/Frontend_Dev/JavaScript_pic.png" }
+      ]
+    },
+    {
+      "company": "University of Rizal System",
+      "role": "Frontend Developer",
+      "year": "2024 - 2026",
+      "type": ["T", "H", "E", "S", "I", "S"],
+      "description1": " Performed automated functional and regression testing at Pixel8 Web Solutions and Consultancy Inc., ensuring the quality and performance of web applications. Developed and executed test scripts using Selenium and Cypress, improving defect detection and overall system reliability.",
+      "description2": " Gained hands-on experience in browser automation, element handling, and test case design, including end-to-end testing and debugging. Applied best practices in creating maintainable test scripts while strengthening knowledge in software testing methodologies and quality assurance processes.",
+      "image": "/src/assets/Experience/DermAi_pic.png",
+      "technologies": [
+        { "name": "HTML5", "photo": "Web_Pics/Frontend_Dev/HTML_pic.png" },
+        { "name": "CSS3", "photo": "Web_Pics/Frontend_Dev/CSS_pic.png" },
+        { "name": "Tailwind CSS", "photo": "Web_Pics/Frontend_Dev/Tailwind_pic.png" },
+        { "name": "JavaScript", "photo": "Web_Pics/Frontend_Dev/JavaScript_pic.png" },
+        { "name": "Python", "photo": "Web_Pics/Backend_Dev/Python_pic.webp" },
+        { "name": "Vue.js", "photo": "Web_Pics/Frameworks/Vue_pic.png" },
+        { "name": "Supabase", "photo": "Web_Pics/Dbase/Supabase_pic.jpg" },
+        { "name": "npm", "photo": "Web_Pics/Frameworks/Npm_pic.png" },
+        { "name": "GitHub", "photo": "Web_Pics/Version/Github_pic.png" }
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "institution": "University of Rizal System",
+      "type": ["T", "I", "R", "T", "I", "A", "R", "Y"],
+      "degree": "Bachelor of Science in Computer Engineering",
+      "year": "2022 - 2026",
+      "photo": "/src/assets/URS_logo.jpg",
+      "description_1": "I completed my Bachelor of Science in Computer Engineering at the University of Rizal System, graduating in 2026 with a Quality Point Average (QPA) of 1.64. My college journey was marked by a strong commitment to learning and continuous improvement, as I developed a solid foundation in both hardware and software systems. Through various academic projects and hands-on experiences, I gained practical knowledge in programming, system design, and problem-solving, which helped shape my technical abilities and critical thinking skills.",
+      "description_2": "Throughout my time in college, I also embraced opportunities to grow beyond the classroom by collaborating with peers, working on innovative projects, and adapting to new technologies. These experiences strengthened my discipline, resilience, and passion for the field of computer engineering. Graduating in 2026 represents not only the completion of my academic journey but also the beginning of my professional path, where I aim to apply my skills and knowledge to contribute effectively in the tech industry."
+    },
+    {
+      "institution": "Juan Sumulong Memorial Junior College",
+      "type": ["S", "E", "C", "O", "N", "D", "A", "R", "Y"],
+      "degree": "Senior High School Diploma",
+      "year": "2020 - 2022",
+      "photo": "/src/assets/Sumulong_logo.jpg",
+      "description_1": "I completed my Senior High School education at Juan Sumulong Memorial Junior College from 2020 to 2022, where I graduated with High Honors under the Science, Technology, Engineering, and Mathematics (STEM) strand. During this time, I built a strong academic foundation in subjects such as mathematics, science, and research, which played a significant role in shaping my analytical and problem-solving skills.",
+      "description_2": "My experience in the STEM strand allowed me to explore my interest in technology and engineering through various academic activities and projects. I developed discipline, critical thinking, and a passion for innovation, which prepared me for the challenges of pursuing a degree in Computer Engineering. This stage of myacademic journey laid the groundwork for my future growth in the field of technology."
+    }
+  ]
+}
