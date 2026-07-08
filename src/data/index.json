@@ -65,7 +65,7 @@
       "year": "2025",
       "description1": " Performed automated functional and regression testing at Pixel8 Web Solutions and Consultancy Inc., ensuring the quality and performance of web applications. Developed and executed test scripts using Selenium and Cypress, improving defect detection and overall system reliability.",
       "description2": " Gained hands-on experience in browser automation, element handling, and test case design, including end-to-end testing and debugging. Applied best practices in creating maintainable test scripts while strengthening knowledge in software testing methodologies and quality assurance processes.",
-      "image": "/src/assets/Pixel8_Logo.png",
+      "images": ["/src/assets/Pixel8_Logo.png"],
       "technologies": [
         { "name": "Selenium", "photo": "Web_Pics/QA/Selenium_pic.png" },
         { "name": "Cypress", "photo": "Web_Pics/QA/Cypress_pic.png" },
@@ -80,7 +80,31 @@
       "type": ["T", "H", "E", "S", "I", "S"],
       "description1": " Performed automated functional and regression testing at Pixel8 Web Solutions and Consultancy Inc., ensuring the quality and performance of web applications. Developed and executed test scripts using Selenium and Cypress, improving defect detection and overall system reliability.",
       "description2": " Gained hands-on experience in browser automation, element handling, and test case design, including end-to-end testing and debugging. Applied best practices in creating maintainable test scripts while strengthening knowledge in software testing methodologies and quality assurance processes.",
-      "image": "/src/assets/Experience/DermAi_pic.png",
+      "images": [
+        "/src/assets/Experience/DermAi_pic.png",
+        "/src/assets/Experience/DermAi_pic.png",
+        "/src/assets/Experience/DermAi_pic.png"
+      ],
+      "technologies": [
+        { "name": "HTML5", "photo": "Web_Pics/Frontend_Dev/HTML_pic.png" },
+        { "name": "CSS3", "photo": "Web_Pics/Frontend_Dev/CSS_pic.png" },
+        { "name": "Tailwind CSS", "photo": "Web_Pics/Frontend_Dev/Tailwind_pic.png" },
+        { "name": "JavaScript", "photo": "Web_Pics/Frontend_Dev/JavaScript_pic.png" },
+        { "name": "Python", "photo": "Web_Pics/Backend_Dev/Python_pic.webp" },
+        { "name": "Vue.js", "photo": "Web_Pics/Frameworks/Vue_pic.png" },
+        { "name": "Supabase", "photo": "Web_Pics/Dbase/Supabase_pic.jpg" },
+        { "name": "npm", "photo": "Web_Pics/Frameworks/Npm_pic.png" },
+        { "name": "GitHub", "photo": "Web_Pics/Version/Github_pic.png" }
+      ]
+    },
+    {
+      "company": "University of Rizal System",
+      "role": "Frontend Developer",
+      "year": "2024 - 2026",
+      "type": ["T", "H", "E", "S", "I", "S"],
+      "description1": " Performed automated functional and regression testing at Pixel8 Web Solutions and Consultancy Inc., ensuring the quality and performance of web applications. Developed and executed test scripts using Selenium and Cypress, improving defect detection and overall system reliability.",
+      "description2": " Gained hands-on experience in browser automation, element handling, and test case design, including end-to-end testing and debugging. Applied best practices in creating maintainable test scripts while strengthening knowledge in software testing methodologies and quality assurance processes.",
+      "images": ["/src/assets/Experience/DermAi_pic.png", "/src/assets/Pixel8_Logo.png"],
       "technologies": [
         { "name": "HTML5", "photo": "Web_Pics/Frontend_Dev/HTML_pic.png" },
         { "name": "CSS3", "photo": "Web_Pics/Frontend_Dev/CSS_pic.png" },

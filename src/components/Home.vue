@@ -23,7 +23,7 @@
           <!-- Links -->
           <div class="mt-6 flex justify-center md:justify-start gap-4">
             <a
-              href="#projects"
+              href="/projects"
               class="inline-block px-6 py-3 text-lg font-semibold text-white bg-yellow-500 rounded-lg shadow-md hover:bg-yellow-600 transition-colors duration-300"
             >
               View Projects
@@ -38,7 +38,7 @@
         </div>
 
         <!-- IMAGE SLIDER -->
-        <div class="flex-shrink-0">
+        <div class="shrink-0">
           <img
             :src="images[currentIndex]"
             alt="Profile"
