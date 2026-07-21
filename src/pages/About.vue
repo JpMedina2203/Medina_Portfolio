@@ -73,7 +73,7 @@ const Education = Data.Education
             <!-- Experience Image -->
             <div class="w-70 h-70 shrink-0">
               <img
-                :src="Experience.image"
+                :src="Experience.images[0]"
                 :alt="Experience.company"
                 class="w-full h-full object-contain rounded-2xl shadow-lg transition-transform duration-300 hover:scale-110"
               />
@@ -151,7 +151,7 @@ const Education = Data.Education
         <!-- Experience Image -->
         <div class="w-full h-60 md:w-fit md:h-80">
           <img
-            :src="Experience.image"
+            :src="Experience.images[0]"
             :alt="Experience.company"
             class="w-full h-full object-cover rounded-2xl shadow-lg transition-transform duration-300 hover:scale-110"
           />
@@ -233,7 +233,7 @@ const Education = Data.Education
           <div
             v-for="(skill, index) in skillCategory.skills"
             :key="index"
-            class="w-full flex items-center gap-4 p-4 rounded-xl text-yellow-500 border border-yellow-500 shadow-md hover:bg-yellow-500 hover:text-white transition-all duration-300 cursor-pointer group h-16"
+            class="w-full flex items-center gap-4 p-4 rounded-xl text-yellow-500 border border-yellow-500 shadow-md hover:bg-yellow-500 hover:text-white transition-all duration-300 cursor-pointer group h-16 hover:scale-110"
           >
             <div
               class="w-12 h-12 flex items-center justify-center bg-white/10 rounded-lg overflow-hidden"

@@ -6,7 +6,7 @@
       ></div>
     </div>
 
-    <div class="relative mx-auto max-w-5xl min-h-screen flex items-center justify-center">
+    <div class="relative mx-auto max-w-5xl min-h-screen flex items-center justify-center bottom-10">
       <div
         class="flex flex-col md:flex-row items-center gap-10 backdrop-blur-md bg-white/5 border border-white/10 rounded-2xl p-8 shadow-xl"
       >

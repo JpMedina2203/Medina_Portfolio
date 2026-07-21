@@ -8,7 +8,8 @@
         { "name": "JavaScript", "photo": "Web_Pics/Frontend_Dev/JavaScript_pic.png" },
         { "name": "Tailwind CSS", "photo": "Web_Pics/Frontend_Dev/Tailwind_pic.png" },
         { "name": "Bootstrap", "photo": "Web_Pics/Frontend_Dev/Bootstrap_pic.webp" },
-        { "name": "Material UI (MUI)", "photo": "Web_Pics/Frontend_Dev/MaterialUi_pic.jpg" }
+        { "name": "Material UI (MUI)", "photo": "Web_Pics/Frontend_Dev/MaterialUi_pic.jpg" },
+        { "name": "Materialize.css", "photo": "Web_Pics/Frontend_Dev/Materialize_pic.png" }
       ]
     },
     {
@@ -16,7 +17,8 @@
       "skills": [
         { "name": "PHP", "photo": "Web_Pics/Backend_Dev/PHP_pic.webp" },
         { "name": "Python", "photo": "Web_Pics/Backend_Dev/Python_pic.webp" },
-        { "name": "TypeScript", "photo": "Web_Pics/Backend_Dev/TypeScript_pic.webp" }
+        { "name": "TypeScript", "photo": "Web_Pics/Backend_Dev/TypeScript_pic.webp" },
+        { "name": "VB.Net", "photo": "Web_Pics/Backend_Dev/VB_pic.jpg" }
       ]
     },
     {
@@ -81,9 +83,15 @@
       "description1": " Performed automated functional and regression testing at Pixel8 Web Solutions and Consultancy Inc., ensuring the quality and performance of web applications. Developed and executed test scripts using Selenium and Cypress, improving defect detection and overall system reliability.",
       "description2": " Gained hands-on experience in browser automation, element handling, and test case design, including end-to-end testing and debugging. Applied best practices in creating maintainable test scripts while strengthening knowledge in software testing methodologies and quality assurance processes.",
       "images": [
-        "/src/assets/Experience/DermAi_pic.png",
-        "/src/assets/Experience/DermAi_pic.png",
-        "/src/assets/Experience/DermAi_pic.png"
+        "/src/assets/Experience/DermAI/DermAi_pic.png",
+        "/src/assets/Experience/DermAI/DermAi_pic1.png",
+        "/src/assets/Experience/DermAI/DermAi_pic2.png",
+        "/src/assets/Experience/DermAI/DermAi_pic3.png",
+        "/src/assets/Experience/DermAI/DermAi_pic4.png",
+        "/src/assets/Experience/DermAI/DermAi_pic5.png",
+        "/src/assets/Experience/DermAI/DermAi_pic6.png",
+        "/src/assets/Experience/DermAI/DermAi_pic7.png",
+        "/src/assets/Experience/DermAI/DermAi_pic8.png"
       ],
       "technologies": [
         { "name": "HTML5", "photo": "Web_Pics/Frontend_Dev/HTML_pic.png" },
@@ -99,23 +107,127 @@
     },
     {
       "company": "University of Rizal System",
-      "role": "Frontend Developer",
-      "year": "2024 - 2026",
-      "type": ["T", "H", "E", "S", "I", "S"],
-      "description1": " Performed automated functional and regression testing at Pixel8 Web Solutions and Consultancy Inc., ensuring the quality and performance of web applications. Developed and executed test scripts using Selenium and Cypress, improving defect detection and overall system reliability.",
-      "description2": " Gained hands-on experience in browser automation, element handling, and test case design, including end-to-end testing and debugging. Applied best practices in creating maintainable test scripts while strengthening knowledge in software testing methodologies and quality assurance processes.",
-      "images": ["/src/assets/Experience/DermAi_pic.png", "/src/assets/Pixel8_Logo.png"],
+      "role": "Web Developer",
+      "year": "2024 - 2025",
+      "type": ["O", "R", "D", "E", "R", "I", "N", "G", "-", "S", "Y", "S", "T", "E", "M"],
+      "description1": " Developed a full-featured online motorcycle shop with both user and admin interfaces. Implemented core functionalities for the user side, including account registration and login, product browsing, add-to-cart system, and order tracking to enhance user experience and convenience.",
+      "description2": " On the admin side, built a management system that allows administrators to create and manage accounts, add and update products, view customer orders, and update order statuses efficiently. Focused on creating a responsive and user-friendly interface while ensuring smooth data handling and system functionality.",
+      "images": [
+        "/src/assets/Experience/BreakfastAtAntonios/BreakfastAtAntonios_pic.png",
+        "/src/assets/Experience/BreakfastAtAntonios/BreakfastAtAntonios_pic1.png",
+        "/src/assets/Experience/BreakfastAtAntonios/BreakfastAtAntonios_pic2.png",
+        "/src/assets/Experience/BreakfastAtAntonios/BreakfastAtAntonios_pic3.png",
+        "/src/assets/Experience/BreakfastAtAntonios/BreakfastAtAntonios_pic4.png",
+        "/src/assets/Experience/BreakfastAtAntonios/BreakfastAtAntonios_pic5.png",
+        "/src/assets/Experience/BreakfastAtAntonios/BreakfastAtAntonios_pic6.png",
+        "/src/assets/Experience/BreakfastAtAntonios/BreakfastAtAntonios_pic7.png",
+        "/src/assets/Experience/BreakfastAtAntonios/BreakfastAtAntonios_pic8.png",
+        "/src/assets/Experience/BreakfastAtAntonios/BreakfastAtAntonios_pic9.png",
+        "/src/assets/Experience/BreakfastAtAntonios/BreakfastAtAntonios_pic10.png",
+        "/src/assets/Experience/BreakfastAtAntonios/BreakfastAtAntonios_pic11.png"
+      ],
+      "technologies": [
+        { "name": "HTML5", "photo": "Web_Pics/Frontend_Dev/HTML_pic.png" },
+        { "name": "CSS3", "photo": "Web_Pics/Frontend_Dev/CSS_pic.png" },
+        { "name": "JavaScript", "photo": "Web_Pics/Frontend_Dev/JavaScript_pic.png" },
+        { "name": "Materialize.css", "photo": "Web_Pics/Frontend_Dev/Materialize_pic.png" },
+        { "name": "Bootstrap", "photo": "Web_Pics/Frontend_Dev/Bootstrap_pic.webp" },
+        { "name": "PHP", "photo": "Web_Pics/Backend_Dev/PHP_pic.webp" }
+      ]
+    },
+    {
+      "company": "University of Rizal System",
+      "role": "Developer",
+      "year": "2024 - 2025",
+      "type": ["T", "I", "N", "D", "A", "H", "A", "N"],
+      "description1": " Developed a basic Point of Sale (POS) system for a local “tindahan” using VB.Net, focused on simple and efficient sales computation. The system allows the cashier to select items such as ulam, inumin, and extra services, automatically calculating the total cost of each transaction. Designed with a user-friendly interface, the system helps ensure quick and accurate order processing, making daily sales operations more organized and convenient.",
+      "description2": "",
+      "images": [
+        "/src/assets/Experience/TindahanNiAlingPuring/TindahanNiAlingPuring_pic.png",
+        "/src/assets/Experience/TindahanNiAlingPuring/TindahanNiAlingPuring_pic1.png",
+        "/src/assets/Experience/TindahanNiAlingPuring/TindahanNiAlingPuring_pic2.png",
+        "/src/assets/Experience/TindahanNiAlingPuring/TindahanNiAlingPuring_pic3.png"
+      ],
+      "technologies": [{ "name": "VB.Net", "photo": "Web_Pics/Backend_Dev/VB_pic.jpg" }]
+    },
+    {
+      "company": "University of Rizal System",
+      "role": "Developer",
+      "year": "2024 - 2025",
+      "type": ["C", "A", "L", "C", "U", "L", "A", "T", "O", "R"],
+      "description1": "Designed and developed a functional calculator application using VB.Net, implementing core arithmetic operations including addition, subtraction, multiplication, and division with high accuracy. Engineered the system to handle decimal values and negative numbers, ensuring reliable and precise computations across various use cases. Built with a clean and intuitive user interface, the application enhances usability and efficiency, demonstrating strong fundamentals in logic building, problem-solving, and desktop application development.",
+      "description2": "",
+      "images": [
+        "/src/assets/Experience/Calculator/Calculator_pic.png",
+        "/src/assets/Experience/Calculator/Calculator_pic1.png",
+        "/src/assets/Experience/Calculator/Calculator_pic2.png",
+        "/src/assets/Experience/Calculator/Calculator_pic3.png",
+        "/src/assets/Experience/Calculator/Calculator_pic4.png"
+      ],
+      "technologies": [{ "name": "VB.Net", "photo": "Web_Pics/Backend_Dev/VB_pic.jpg" }]
+    },
+    {
+      "company": "University of Rizal System",
+      "role": "Web Developer",
+      "year": "2023 - 2024",
+      "type": ["W", "O", "R", "L", "D", "-", "O", "F", "-", "S", "P", "E", "E", "D"],
+      "description1": " Developed a full-featured online motorcycle shop with both user and admin interfaces. Implemented core functionalities for the user side, including account registration and login, product browsing, add-to-cart system, and order tracking to enhance user experience and convenience.",
+      "description2": " On the admin side, built a management system that allows administrators to create and manage accounts, add and update products, view customer orders, and update order statuses efficiently. Focused on creating a responsive and user-friendly interface while ensuring smooth data handling and system functionality.",
+      "images": [
+        "/src/assets/Experience/WorldOfSpeed/WOS_pic.png",
+        "/src/assets/Experience/WorldOfSpeed/WOS_pic1.png",
+        "/src/assets/Experience/WorldOfSpeed/WOS_pic2.png",
+        "/src/assets/Experience/WorldOfSpeed/WOS_pic3.png",
+        "/src/assets/Experience/WorldOfSpeed/WOS_pic4.png",
+        "/src/assets/Experience/WorldOfSpeed/WOS_pic5.png",
+        "/src/assets/Experience/WorldOfSpeed/WOS_pic6.png",
+        "/src/assets/Experience/WorldOfSpeed/WOS_pic7.png",
+        "/src/assets/Experience/WorldOfSpeed/WOS_pic8.png"
+      ],
       "technologies": [
         { "name": "HTML5", "photo": "Web_Pics/Frontend_Dev/HTML_pic.png" },
         { "name": "CSS3", "photo": "Web_Pics/Frontend_Dev/CSS_pic.png" },
         { "name": "Tailwind CSS", "photo": "Web_Pics/Frontend_Dev/Tailwind_pic.png" },
         { "name": "JavaScript", "photo": "Web_Pics/Frontend_Dev/JavaScript_pic.png" },
-        { "name": "Python", "photo": "Web_Pics/Backend_Dev/Python_pic.webp" },
-        { "name": "Vue.js", "photo": "Web_Pics/Frameworks/Vue_pic.png" },
-        { "name": "Supabase", "photo": "Web_Pics/Dbase/Supabase_pic.jpg" },
-        { "name": "npm", "photo": "Web_Pics/Frameworks/Npm_pic.png" },
-        { "name": "GitHub", "photo": "Web_Pics/Version/Github_pic.png" }
+        { "name": "Materialize.css", "photo": "Web_Pics/Frontend_Dev/Materialize_pic.png" },
+        { "name": "Bootstrap", "photo": "Web_Pics/Frontend_Dev/Bootstrap_pic.webp" },
+        { "name": "PHP", "photo": "Web_Pics/Backend_Dev/PHP_pic.webp" },
+        { "name": "VB.Net", "photo": "Web_Pics/Backend_Dev/VB_pic.jpg" }
       ]
+    },
+    {
+      "company": "University of Rizal System",
+      "role": "Developer",
+      "year": "2023 - 2024",
+      "type": ["P", "H", "A", "N", "T", "O", "M", "-", "T", "E", "C", "H"],
+      "description1": " Developed a Point of Sale (POS) system for a laptop retail business using VB.Net, featuring both cashier and admin interfaces. The cashier side supports efficient sales transactions, enabling quick processing of laptop purchases and accurate recording of customer orders.",
+      "description2": "On the admin side, implemented functionalities for managing laptop inventory, tracking stock levels, handling user accounts, and monitoring sales performance. The system records transactions and organizes sales data, helping improve inventory control and overall business operations.",
+      "images": [
+        "/src/assets/Experience/PhantomTech/PhantomTech_pic.png",
+        "/src/assets/Experience/PhantomTech/PhantomTech_pic1.png",
+        "/src/assets/Experience/PhantomTech/PhantomTech_pic2.png",
+        "/src/assets/Experience/PhantomTech/PhantomTech_pic3.png",
+        "/src/assets/Experience/PhantomTech/PhantomTech_pic4.png",
+        "/src/assets/Experience/PhantomTech/PhantomTech_pic5.png",
+        "/src/assets/Experience/PhantomTech/PhantomTech_pic6.png"
+      ],
+      "technologies": [{ "name": "VB.Net", "photo": "Web_Pics/Backend_Dev/VB_pic.jpg" }]
+    },
+    {
+      "company": "University of Rizal System",
+      "role": "Developer",
+      "year": "2023 - 2024",
+      "type": ["S", "C", "O", "R", "E", "-", "B", "O", "A", "R", "D"],
+      "description1": " Developed a Point of Sale (POS) system for a laptop retail business using VB.Net, featuring both cashier and admin interfaces. The cashier side supports efficient sales transactions, enabling quick processing of laptop purchases and accurate recording of customer orders.",
+      "description2": "On the admin side, implemented functionalities for managing laptop inventory, tracking stock levels, handling user accounts, and monitoring sales performance. The system records transactions and organizes sales data, helping improve inventory control and overall business operations.",
+      "images": [
+        "/src/assets/Experience/ScoreBoard/ScoreBoard_pic.png",
+        "/src/assets/Experience/ScoreBoard/ScoreBoard_pic1.png",
+        "/src/assets/Experience/ScoreBoard/ScoreBoard_pic2.png",
+        "/src/assets/Experience/ScoreBoard/ScoreBoard_pic3.png",
+        "/src/assets/Experience/ScoreBoard/ScoreBoard_pic4.png"
+      ],
+      "technologies": [{ "name": "VB.Net", "photo": "Web_Pics/Backend_Dev/VB_pic.jpg" }]
     }
   ],
   "Education": [
